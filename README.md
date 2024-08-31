@@ -8,6 +8,8 @@ TDD used by writing tests using RSpec
 
 ## 7th Kyu
 - Binary Addition
+- Get The Middle Character
+- Highest and Lowest
 
 ## 6th Kyu
 - Detect Pangram
