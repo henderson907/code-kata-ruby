@@ -9,8 +9,12 @@ TDD used by writing tests using RSpec
 ## 7th Kyu
 - Binary Addition
 - Get The Middle Character
-- Highest and Lowest
+- Highest And Lowest
 
 ## 6th Kyu
 - Detect Pangram
 - Does My Number Look Big In This?
+- Split Strings
+
+## 5th Kyu
+- RGB To Hex Conversion
