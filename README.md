@@ -19,3 +19,4 @@ TDD used by writing tests using RSpec
 ## 5th Kyu
 - RGB To Hex Conversion
 - Simple Pig Latin
+- The Hashtag Generator
