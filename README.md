@@ -15,6 +15,7 @@ TDD used by writing tests using RSpec
 - Detect Pangram
 - Does My Number Look Big In This?
 - Split Strings
+- Find The Odd Int
 
 ## 5th Kyu
 - RGB To Hex Conversion
